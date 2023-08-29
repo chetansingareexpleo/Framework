@@ -1,0 +1,17 @@
+C:\Users\csingare\source\repos\Framework\Framework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\csingare\source\repos\Framework\Framework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\csingare\source\repos\Framework\Framework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\csingare\source\repos\Framework\Framework.Tests\bin\Debug\Framework.Tests.dll
+C:\Users\csingare\source\repos\Framework\Framework.Tests\bin\Debug\Framework.Tests.pdb
+C:\Users\csingare\source\repos\Framework\Framework.Tests\bin\Debug\Framework.dll
+C:\Users\csingare\source\repos\Framework\Framework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\csingare\source\repos\Framework\Framework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\csingare\source\repos\Framework\Framework.Tests\bin\Debug\Framework.pdb
+C:\Users\csingare\source\repos\Framework\Framework.Tests\bin\Debug\Framework.dll.config
+C:\Users\csingare\source\repos\Framework\Framework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\csingare\source\repos\Framework\Framework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\csingare\source\repos\Framework\Framework.Tests\obj\Debug\Framework.Tests.csprojAssemblyReference.cache
+C:\Users\csingare\source\repos\Framework\Framework.Tests\obj\Debug\Framework.Tests.csproj.CoreCompileInputs.cache
+C:\Users\csingare\source\repos\Framework\Framework.Tests\obj\Debug\Framework.Tests.csproj.CopyComplete
+C:\Users\csingare\source\repos\Framework\Framework.Tests\obj\Debug\Framework.Tests.dll
+C:\Users\csingare\source\repos\Framework\Framework.Tests\obj\Debug\Framework.Tests.pdb
